@@ -8,11 +8,11 @@ This project is a simple yet powerful Visual Question Answering (VQA) web app bu
 
 1. Upload any image and ask a question about it
 
-2.Uses dandelin/vilt-b32-finetuned-vqa, a transformer trained for VQA
+2. Uses dandelin/vilt-b32-finetuned-vqa, a transformer trained for VQA
 
-3.Clean Gradio interface
+3. Clean Gradio interface
 
-4.Runs locally or can be deployed to platforms like Render, Hugging Face Spaces
+4. Runs locally or can be deployed to platforms like Render, Hugging Face Spaces
 
 # Installation
 
