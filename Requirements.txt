@@ -2,3 +2,4 @@ torch
 transformers
 gradio
 Pillow
+huggingface_hub
